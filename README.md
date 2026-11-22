@@ -31,4 +31,4 @@ Excel (formulas, data checks), Power BI (DAX measures, dashboard).
 Octoparse sample on Kaggle (Shopee Brazil, collected 17 Oct 2026). Prices are in BRL. "Sold" means units sold in the last 30 days. The sample is small and skewed by one very large product, so the findings describe this sample, not the whole Shopee market.
 
 ## Author
-[Your name] · [LinkedIn] · [Email]
+Muhammad Naufal Athallah
