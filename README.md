@@ -2,7 +2,7 @@
 
 A business analysis of a public Shopee Brazil sample (200 products, 922 SKUs): how sales are distributed, and how reviews, price and catalog quality relate to sales.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](image/Shopee_Product_Analysis.png)
 
 ## Business questions
 1. How concentrated are sales across products and shops?
